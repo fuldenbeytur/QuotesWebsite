@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/QuotesWebsite/static/css/main.cafc5289.chunk.css",
+    "main.js": "/QuotesWebsite/static/js/main.390cdf41.chunk.js",
+    "main.js.map": "/QuotesWebsite/static/js/main.390cdf41.chunk.js.map",
+    "runtime~main.js": "/QuotesWebsite/static/js/runtime~main.d39edf85.js",
+    "runtime~main.js.map": "/QuotesWebsite/static/js/runtime~main.d39edf85.js.map",
+    "static/js/2.f79bec37.chunk.js": "/QuotesWebsite/static/js/2.f79bec37.chunk.js",
+    "static/js/2.f79bec37.chunk.js.map": "/QuotesWebsite/static/js/2.f79bec37.chunk.js.map",
+    "index.html": "/QuotesWebsite/index.html",
+    "precache-manifest.958471f20801f5256b04c105e9563b68.js": "/QuotesWebsite/precache-manifest.958471f20801f5256b04c105e9563b68.js",
+    "service-worker.js": "/QuotesWebsite/service-worker.js",
+    "static/css/main.cafc5289.chunk.css.map": "/QuotesWebsite/static/css/main.cafc5289.chunk.css.map",
+    "static/media/app.css": "/QuotesWebsite/static/media/quotehomepage4.e37f0042.jpg"
+  }
+}
