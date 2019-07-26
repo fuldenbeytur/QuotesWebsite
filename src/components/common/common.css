@@ -1,0 +1,31 @@
+.header {
+  width: 100%;
+  background-color: #e8edf3;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+.nav {
+  float: right;
+  margin-right: 100px;
+  padding: 12px;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.menuItem {
+  padding-right: 14px;
+  padding-left: 14px;
+  text-decoration: none;
+}
+.menuItem:hover {
+  text-decoration: none;
+}
+
+@media (max-width: 48em) {
+  .nav {
+    margin-right: auto;
+    font-size: 1.2em;
+  }
+}
