@@ -50,6 +50,21 @@ class HomePage extends React.Component {
         <section id="quoteOfDay">
           <h5 className="quoday">{this.state.quotesofday.body}</h5>
           <p className="author">{this.state.quotesofday.author}</p>
+          <button
+            style={{
+              marginTop: "20px",
+              marginLeft: "120px",
+              padding: "10px",
+              borderRadius: "10px",
+              fontSize: "16px",
+              fontWeight: "800",
+              color: "rgb(34, 38, 75)",
+              fontFamily: "EB Garamond"
+            }}
+            onClick={this.fetchSearchResults}
+          >
+            Another one?
+          </button>
         </section>
       </div>
     );
